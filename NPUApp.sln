@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Debug|x64.Build.0 = Debug|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Debug|x86.Build.0 = Debug|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Release|ARM64.Build.0 = Release|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Release|x64.ActiveCfg = Release|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Release|x64.Build.0 = Release|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Release|x86.ActiveCfg = Release|Any CPU
+		{5D1D85C4-FB10-4C2E-93DE-590A80372EB7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
